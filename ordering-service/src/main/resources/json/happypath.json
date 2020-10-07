@@ -1,0 +1,10 @@
+{
+	"orderId": "123",
+	"details": [{
+		"menuId": 1,
+		"quantity": 2
+	}, {
+		"menuId": 3,
+		"quantity": 1
+	}]
+}
